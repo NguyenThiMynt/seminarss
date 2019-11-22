@@ -1,0 +1,187 @@
+ul.pagination {
+  text-align:center;
+  color:#829994;
+}
+ul.pagination li {
+  display:inline;
+  padding:0 3px;
+}
+ul.pagination a {
+  color:#0d7963;
+  display:inline-block;
+  padding:5px 10px;
+  border:1px solid #cde0dc;
+  text-decoration:none;
+}
+ul.pagination a:hover,
+ul.pagination a.current {
+  background:#0d7963;
+  color:#fff;
+}
+ul.pagination .page_info{
+  margin-top: 6px;
+  display: inline-block;
+  padding-left: 10px;
+}
+.form-login {
+  max-width: 300px;
+  margin: 20px auto;
+}
+.center-align{
+  text-align: center;
+}
+
+.payment-status {
+  background: blue;
+  padding: 3px 10px;
+  font-size: 11px;
+  color: #fff;
+  vertical-align: middle;
+  margin-left: 3px;
+}
+.main-header .menu{
+    background:#ffffff !important;
+    min-height: 70px;
+
+}
+.main-header .lg-title{
+    font-size: 15px;
+    font-weight: bold;
+    height: 70px;
+    padding: 11px 15px;
+}
+.main-header .lg-out{
+    font-size: 14px;
+    border-bottom: 1px solid;
+    color: #4D4F5C;
+
+}
+.main-header .icon-bar{
+    background-color: #00c0ef!important;
+    padding: 15px 20px;
+}
+.sidebar-left{
+    background: #43425D !important;
+    padding-top: 70px;
+}
+.main-sidebar .sidebar img{
+    width: 16px;
+    height: 16px;
+}
+.main-sidebar .sidebar a{
+    font-size: 15px;
+    color: #ffffff;
+}
+.main-sidebar .sidebar li:hover{
+    border-left: 3px solid #A3A0FB;
+}
+.seach-box{
+    position: absolute;
+}
+.seach-box input{
+    height: 40px;
+    width: 300px !important;
+    border-radius: 5px;
+    box-shadow: none;
+}
+.seach-box span{
+    font-size: 13px;
+    color: #4D4F5C;
+}
+/*login*/
+.main-form input {
+    border: none;
+    border-bottom: 1px solid #43425D;
+    font-size: 15px;
+}
+.main-form input:focus {
+    box-shadow: none;
+}
+.main-form{
+    margin: 0 auto;
+    bottom: 50%;
+    transform: translateY(50%);
+}
+.main-form .main-title h3{
+    font-size: 35px;
+    font-weight: bold;
+}
+.main-form .main-title small{
+    font-size: 18px;
+}
+label{
+    font-size: 15px;
+}
+.bt-login{
+    background: #484760;
+    font-size: 18px;
+    color: #FFFFFF;
+    border-radius: 6px;
+    border: none;
+    margin-left: 270px;
+}
+
+#basic-addon:focus{
+    box-shadow: none;
+    border: none;
+    outline: 5px auto #ccc;
+}
+.title-tb{
+    font-size: 18px;
+    color: #4D4F5C;
+}
+.tt-title th{
+    font-size: 13px;
+    font-weight: bold;
+}
+.f-form{
+    max-width: 447px;
+   min-height: 80vh;
+    padding: 5px 30px;
+    background: #ffffff;
+}
+.f-form input{
+    border-radius: 5px;
+}
+.f-form label{
+    font-size: 13px;
+    font-weight: bold;
+    color: #333333;
+}
+.btn-cancel{
+    font-weight: bold;
+    font-size: 14px;
+    color: #ffffff;
+    background: #C4C4C4;
+}
+.btn-create{
+    width: 100px;
+    font-weight: bold;
+    font-size: 14px;
+    color: #ffffff;
+    background: #08B46B;
+}
+.w-form{
+    max-width: 751px !important;
+}
+.calendar-form{
+    width: 540px;
+    height: 570px;
+    margin: 0px auto;
+}
+.calendar-form h3{
+    font-size: 27px;
+}
+.calendar-form label{
+    font-size: 14px;
+}
+.blog-detail a{
+    color: #378CBE;
+    border-bottom: 1px solid #378CBE;
+    font-size: 13px;
+}
+.main-content{
+    max-width: 944px;
+    min-height: 80vh;
+    background-color: #ffffff;
+}
